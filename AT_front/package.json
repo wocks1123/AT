@@ -9,6 +9,15 @@
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^6.4.1",
-    "nuxt": "^3.2.3"
+    "nuxt": "^3.2.3",
+    "nuxt-icon": "^0.3.2"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.4.7",
+    "@tensorflow-models/coco-ssd": "^2.2.2",
+    "@tensorflow/tfjs": "^3.9.0",
+    "@vueuse/nuxt": "^9.13.0",
+    "pinia": "^2.0.33",
+    "simple-vue-camera": "^1.1.3"
   }
 }
